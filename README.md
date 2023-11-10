@@ -8,19 +8,30 @@ Fique a vontade para contribuir.
 - [Filipe Deschamps](https://www.filipedeschamps.com.br/)
 - [TabNews](https://www.tabnews.com.br/)
 
-## Communities
+## Comunidades
 
-- [BrazilJS](https://braziljs.org/)
-- [FrontEnd Br](https://github.com/frontendbr)
-- [Training Center](https://github.com/training-center)
+### Diversidade
+- [Mulheres na Computação](https://mulheresnacomputacao.com/)
+
+### Backend
 - [BackEnd Br](https://github.com/backend-br)
+- [Node.js BR](https://nodebr.org)
+
+### Frontend
+- [FrontEnd Br](https://github.com/frontendbr)
+
+### Linguagens
+- [BrazilJS](https://braziljs.org/)
+- [Go](https://gophers.slack.com)
+
+### Outros
+- [Training Center](https://github.com/training-center)
 - [Comunidades Web](https://github.com/brasil-php/comunidades)
-- [NodeJS Brasil - Facebook](https://www.facebook.com/groups/nodejsbrasil/about/)
 - [Dev Translate](https://github.com/devtranslate)
 - [CodamosClub](https://www.codamos.club/)
 - [HashNode](https://hashnode.com/)
-- [Mulheres na Computação](https://mulheresnacomputacao.com/)
 - [Dev Newsletters](https://devnewsletters.github.io/)
+- [GDG JF](https://gdg.community.dev/gdg-juiz-de-fora/)
 - [DevOpsDays JF](https://devopsdays.org/juiz-de-fora)
 - [CodeXperience Zona da Mata](https://codexperience.com.br/)
 - [Agile Brazil](http://agilebrazil.com/)

@@ -21,6 +21,9 @@ Fique a vontade para contribuir.
 - [HashNode](https://hashnode.com/)
 - [Mulheres na Computação](https://mulheresnacomputacao.com/)
 - [Dev Newsletters](https://devnewsletters.github.io/)
+- [DevOpsDays JF](https://devopsdays.org/juiz-de-fora)
+- [CodeXperience Zona da Mata](https://codexperience.com.br/)
+- [Agile Brazil](http://agilebrazil.com/)
 
 ## Podcasts
 
@@ -30,7 +33,8 @@ Fique a vontade para contribuir.
 - [SciCast](http://www.deviante.com.br/podcasts/scicast/)
 - [Olá, Gabs](https://www.gabsferreira.com.br/podcast)
 - [Space Squad](https://open.spotify.com/show/5TvGqomzjc81obDK7iNiTu)
-
+- [Data Hackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93?si=366c3575cbe34132)
+- [Pizza de Dados](https://open.spotify.com/episode/1pzCoT2jpZBxZY7lU1TC3Z?si=55a225e3d241404e)
 ## YouTube
 
 - Tecnologia
